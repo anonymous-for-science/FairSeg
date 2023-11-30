@@ -41,3 +41,6 @@ For testing, please specify the root_dir, attribute, path of pretrained lora che
 ./test.sh
 ```
 
+## Checkpoints
+
+The models pre-trained/fine-tuned on our dataset can be accessed via [checkpoints](https://drive.google.com/drive/folders/187jUKDWA2kXkkRZ12SOh1UghU2F1ouf4?usp=sharing).
